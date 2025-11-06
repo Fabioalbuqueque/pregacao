@@ -24,6 +24,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start"
   }
 }
+
+    
+  }
+  
+
